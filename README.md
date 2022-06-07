@@ -1,7 +1,7 @@
 ### A powerful bot that can play music on telegram group's voice chat with some useful features !!
 
 <p align="center">
-  <img src="https://telegra.ph/file/00a389a0c21a632ee29aa.jpg">
+  <img src="https://telegra.ph/file/dac56ba4d9f84aff89a6c.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
